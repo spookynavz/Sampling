@@ -37,7 +37,7 @@ The table below shows the accuracy of each model on the different sampling techn
 ---
 
 ### Key Insights:
-- The **best accuracy achieved** is **0.989071**, using the **Decision Tree model** with both:
+- The **best accuracy achieved** is **0.989071**, using the **Decision Tree model** with:
   - **Random Sampling**    
 
 > **Note**: The accuracy may vary for different rows picked when generating a sample.
